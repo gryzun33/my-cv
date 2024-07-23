@@ -3,7 +3,7 @@ import './App.scss';
 function App(): JSX.Element {
   return (
     <>
-      <div className="container">Hello world!</div>
+      <div className="container">vjkhk</div>
     </>
   );
 }
