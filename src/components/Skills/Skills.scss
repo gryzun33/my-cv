@@ -1,1 +1,15 @@
 @import '../../styles/variables.scss';
+
+.skills {
+  margin-top: 20px;
+
+  h2 {
+    margin-left: 20px;
+    font-weight: 400;
+  }
+
+  li {
+    margin-left: 20px;
+    font-weight: 300;
+  }
+}
