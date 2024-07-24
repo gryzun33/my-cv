@@ -1,0 +1,14 @@
+@import './variables.scss';
+
+@mixin h2-bg {
+  background-color: $color-bg-gray;
+  display: inline-block;
+  border-radius: 5px;
+  font-weight: 400;
+}
+
+@mixin yellow-marker {
+  margin-left: 20px;
+  color: $color-bg-main;
+  list-style-type: disc;
+}

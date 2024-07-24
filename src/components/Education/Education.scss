@@ -1,1 +1,15 @@
 @import '../../styles/variables.scss';
+@import '../../styles/mixins.scss';
+
+.education h2 {
+  @include h2-bg();
+  margin-bottom: 5px;
+}
+
+.education li li {
+  @include yellow-marker();
+
+  span {
+    color: $color-text-dark;
+  }
+}
