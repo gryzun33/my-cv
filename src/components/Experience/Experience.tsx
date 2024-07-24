@@ -95,7 +95,7 @@ function Experience(): JSX.Element {
           </a>
         </li>
         <li>
-          <span>EcommerceApp (React) - </span>
+          <span>EcommerceApp (React, SDK commercetools) - </span>
 
           <a href="https://github.com/gryzun33/ecommerce-app" target="_blank">
             {' '}
