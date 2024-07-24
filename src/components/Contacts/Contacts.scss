@@ -1,1 +1,31 @@
 @import '../../styles/variables.scss';
+
+.contacts {
+  h2 {
+    margin-left: 20px;
+    font-weight: 400;
+  }
+
+  li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+
+    a {
+      color: $color-text-dark;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+
+      span {
+        margin-left: 10px;
+        font-size: 14px;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}

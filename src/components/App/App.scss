@@ -5,3 +5,15 @@
   width: 100%;
   background-color: $color-bg-light;
 }
+
+.info {
+  display: flex;
+  padding-left: 40px;
+}
+
+.info-left {
+  flex: none;
+  width: 250px;
+  background-color: $color-bg-main;
+  padding: 20px;
+}
