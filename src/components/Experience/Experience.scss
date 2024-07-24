@@ -1,1 +1,18 @@
 @import '../../styles/variables.scss';
+@import '../../styles/mixins.scss';
+
+.experience {
+  margin-top: 25px;
+
+  h2 {
+    @include h2-bg();
+  }
+
+  p {
+    margin-top: 10px;
+  }
+
+  ul {
+    margin-top: 10px;
+  }
+}
