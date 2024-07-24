@@ -5,12 +5,14 @@ import Skills from 'components/Skills/Skills';
 import Education from 'components/Education/Education';
 import Experience from 'components/Experience/Experience';
 import EnglishLevel from 'components/EnglishLevel/EnglishLevel';
+import About from 'components/About/About';
 
 function App(): JSX.Element {
   return (
     <>
       <div className="container">
         <Description />
+        <About />
         <div className="info">
           <div className="info-left">
             <Contacts />

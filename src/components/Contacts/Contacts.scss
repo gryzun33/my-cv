@@ -1,6 +1,12 @@
 @import '../../styles/variables.scss';
+@import '../../styles/mixins.scss';
 
 .contacts {
+  @include tablet {
+    padding-bottom: 15px;
+    border-bottom: 1px solid black;
+  }
+
   h2 {
     margin-left: 20px;
     font-weight: 400;

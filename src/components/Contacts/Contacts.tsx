@@ -34,7 +34,7 @@ function Contacts(): JSX.Element {
           </a>
         </li>
         <li>
-          <a href="yakushevao777@gmail.com" target="_blank">
+          <a href="yakushevaolga564@gmail.com" target="_blank">
             <img src={iconMail} alt="mail" width="20" height="20" />
             <span>yakushevao777@gmail.com</span>
           </a>

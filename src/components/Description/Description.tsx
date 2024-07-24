@@ -13,8 +13,8 @@ function Description(): JSX.Element {
         </div>
         <div className="descr-text">
           <h1 className="title">
-            Olga
-            <span>&nbsp;Yakusheva</span>
+            <span>Olga </span>
+            <span>Yakusheva</span>
           </h1>
           <h2 className="subtitle">Junior Frontend developer</h2>
           <div className="about">
