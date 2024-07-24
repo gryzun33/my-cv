@@ -15,11 +15,11 @@ function App(): JSX.Element {
           <div className="info-left">
             <Contacts />
             <Skills />
+            <EnglishLevel />
           </div>
           <div className="info-right">
             <Education />
             <Experience />
-            <EnglishLevel />
           </div>
         </div>
       </div>

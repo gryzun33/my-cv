@@ -1,1 +1,19 @@
 @import '../../styles/variables.scss';
+
+.info-english {
+  margin-top: 20px;
+
+  h2 {
+    font-weight: 400;
+    margin-left: 20px;
+  }
+
+  p {
+    font-weight: 300;
+    margin-top: 5px;
+  }
+
+  a {
+    color: $color-text-dark;
+  }
+}
