@@ -6,9 +6,9 @@ function Education(): JSX.Element {
       <h2>&nbsp;Education&nbsp;</h2>
       <ul>
         <li>
-          Belarusian Nationed Technical University,
+          Belarusian National Technical University,
           <br />
-          Engineering Faculty, 2005-2010, diploma with honour
+          Faculty of Energy, 2005-2010, diploma with honour
         </li>
         <li>
           In programming:
