@@ -102,6 +102,26 @@ function Experience(): JSX.Element {
             only code
           </a>
         </li>
+        <li>
+          <a href="https://gryzun33.github.io/RSS-preschool2023/library/" target="_blank">
+            Library
+          </a>
+          <span> - </span>
+          <a href="https://github.com/gryzun33/RSS-preschool2023/tree/library" target="_blank">
+            {' '}
+            code
+          </a>
+        </li>
+        <li>
+          <a href="https://gryzun33.github.io/RSS-2023Q4/coffee-house/pages/home/" target="_blank">
+            Coffee House
+          </a>
+          <span> - </span>
+          <a href="https://github.com/gryzun33/RSS-2023Q4/tree/coffee-house" target="_blank">
+            {' '}
+            code
+          </a>
+        </li>
       </ul>
     </section>
   );
