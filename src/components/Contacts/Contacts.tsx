@@ -52,7 +52,7 @@ function Contacts(): JSX.Element {
           </a>
         </li>
         <li>
-          <a href="www.linkedin.com/in/olga-yakusheva-45a00b284" target="_blank">
+          <a href="https://www.linkedin.com/in/olga-yakusheva-45a00b284" target="_blank">
             <img src={iconLinkedin} alt="linkedin" width="20" height="20" />
             <span>Olga Yakusheva</span>
           </a>

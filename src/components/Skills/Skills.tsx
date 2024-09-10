@@ -10,7 +10,7 @@ function Skills(): JSX.Element {
         <li>
           React
           <br />
-          (Zustand, TanStack Query, React Router, React Hook Form)
+          (Redux, Zustand, TanStack Query, React Router, React Hook Form)
         </li>
 
         <li>HTML/CSS</li>
@@ -18,6 +18,7 @@ function Skills(): JSX.Element {
         <li>Git, Github</li>
         <li>Vite, Webpack</li>
         <li>Material UI</li>
+        <li>REST API</li>
         <li>Figma</li>
       </ul>
     </section>
