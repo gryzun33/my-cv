@@ -94,14 +94,7 @@ function Experience(): JSX.Element {
             code
           </a>
         </li>
-        <li>
-          <span>EcommerceApp (React, SDK commercetools) - </span>
 
-          <a href="https://github.com/gryzun33/ecommerce-app" target="_blank">
-            {' '}
-            only code
-          </a>
-        </li>
         <li>
           <a href="https://gryzun33.github.io/RSS-preschool2023/library/" target="_blank">
             Library
@@ -120,6 +113,14 @@ function Experience(): JSX.Element {
           <a href="https://github.com/gryzun33/RSS-2023Q4/tree/coffee-house" target="_blank">
             {' '}
             code
+          </a>
+        </li>
+        <li>
+          <span>EcommerceApp (React, SDK commercetools) - </span>
+
+          <a href="https://github.com/gryzun33/ecommerce-app" target="_blank">
+            {' '}
+            only code
           </a>
         </li>
       </ul>
