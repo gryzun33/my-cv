@@ -29,6 +29,7 @@ function Skills(): JSX.Element {
           <li>Swagger</li>
           <li>Prisma</li>
           <li>PostgreSQL</li>
+          <li>Jest</li>
         </ul>
       </div>
     </section>
