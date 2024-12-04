@@ -41,6 +41,9 @@ function Education(): JSX.Element {
               </span>
             </li>
             <li>
+              <span>RS School Node.js course 2024 Q3</span>
+            </li>
+            <li>
               <span>Udemy online-courses</span>
             </li>
             <li>
