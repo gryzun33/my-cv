@@ -5,10 +5,12 @@ function Experience(): JSX.Element {
     <section className="experience">
       <h2>&nbsp;Experience&nbsp;</h2>
       <p className="experience-text">
-        As of today I only have projects in my portfolio that I did as part of the Rolling Scopes
-        School course, but I think they turned out to be quite individual with their own design and
-        I would like to share them with you.
+        As of today, my portfolio only contains the projects I made during my studies, but I think
+        they turned out to be quite individual with their own design and I would like to share them
+        with you.
       </p>
+      <br />
+      <p>Frontend:</p>
       <ul>
         <li>
           <a href="https://gryzun33.github.io/RSS-preschool2023/random-game/" target="_blank">
@@ -71,7 +73,7 @@ function Experience(): JSX.Element {
         </li>
         <li>
           <a href="https://gryzun33-funchat.netlify.app/login" target="_blank">
-            Fun Chat (with Websocket)
+            Fun Chat (with Websockets)
           </a>
           <span> - </span>
           <a href="https://github.com/gryzun33/RSS-2023Q4/tree/fun-chat/fun-chat" target="_blank">
@@ -94,7 +96,6 @@ function Experience(): JSX.Element {
             code
           </a>
         </li>
-
         <li>
           <a href="https://gryzun33.github.io/RSS-preschool2023/library/" target="_blank">
             Library
@@ -117,10 +118,23 @@ function Experience(): JSX.Element {
         </li>
         <li>
           <span>EcommerceApp (React, SDK commercetools) - </span>
-
           <a href="https://github.com/gryzun33/ecommerce-app" target="_blank">
             {' '}
             only code
+          </a>
+        </li>
+      </ul>
+      <br />
+      <p>Backend:</p>
+      <ul>
+        <li>
+          <a href="https://github.com/gryzun33/library-service/tree/part3" target="_blank">
+            Library-service (NestJS, Docker, PostgreSQL, Prisma, Swagger)
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/gryzun33/Battleship/tree/develop" target="_blank">
+            Battleship (My code is only backend) (Websockets)
           </a>
         </li>
       </ul>

@@ -5,10 +5,10 @@ function About(): JSX.Element {
     <section className="about-section">
       <h2>&nbsp;About myself&nbsp;</h2>
       <p>
-        Hello. I'm Olga. I've been studying JavaScript for quite some time, currently immersed in
-        learning React, Next.js and all the supporting libraries. My strengths are responsibility,
-        communication skills, attention to detail. In my previous life I worked as a project
-        engineer for power supply and lighting.
+        Hello. My name is Olga. I've been studying JavaScript for quite a long time, currently I'm
+        immersed in studying Next.js and all supporting libraries. I also recently finished Node.js
+        course and now I have basic knowledge of NestJS, as well as experience with PostgreSQL
+        database and Docker. During my studies I managed to participate in team projects.
       </p>
     </section>
   );
